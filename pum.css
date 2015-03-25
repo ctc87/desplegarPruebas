@@ -1,0 +1,23 @@
+
+.divExterno {
+    margin: 0 auto;
+    height : 600px;
+    width : 1000px;
+    border : black solid 5px;
+    background-color : blue;
+    border-radius : 50px;
+}
+.divInterno {
+    margin: 0 auto;
+    height : 250px;
+    width : 800px;
+    border : black solid 2px;
+    background-color : red;
+    border-radius : 20px;
+}
+
+#boton {
+    float:left;
+    margin-left:340px;
+    margin-top:120px;
+}
